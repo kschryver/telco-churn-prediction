@@ -1,3 +1,5 @@
+https://telco-churn-prediction-kschryver.streamlit.app
+
 # Telco Churn Prediction + Intervention System
 
 Churn model with SHAP-based intervention recommendations. 72% recall, $371K retained revenue, 1,395% ROI.
